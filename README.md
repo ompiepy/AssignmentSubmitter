@@ -4,4 +4,4 @@
 2. How to scan faster.
 3. Get the raw scan files.
 4. Add front page.
-5. Add footer
+5. Add footer.
