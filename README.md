@@ -77,3 +77,6 @@ Thapathali Campus<br>
 Page {1} of {TOTAL_PAGE}
  ![Screenshot](./footer_example.png)
 Or, you can add your own footer designs and work accordingly.
+
+
+7. PDF title should be Om Prakash Sharma- THA077BCT030- {ASSIGNMENT_NAME}.
