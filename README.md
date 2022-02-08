@@ -48,7 +48,7 @@ TODO:
 - License Work.
 - OCR
 
-##Stages
+## Stages
 
 1. You will obtain the each .jpeg files, page size=A4.
 2. Arrange pages if necessary.
