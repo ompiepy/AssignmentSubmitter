@@ -11,6 +11,16 @@
 - To add the front cover, footer details, pdf file name.
 
 ### Front Cover
+--------------------------------------------------
+**Name of Assignment:**
+Name of Subject:
+    Choosen out of 6 Subjects:
+        EX451 Basic Electronics Engineering
+        ME451 Engineering Drawing II
+        ME452 Fundamental of Thermodynamics & Heat Transfer
+        ME453 Workshop Technology
+        SH451 Engineering Mathematics II
+        SH453 Engineering Chemistry
 
 **Name of Assignment:**<br>
 |Name of Subject:<br>
@@ -21,17 +31,18 @@
 |        ME453 Workshop Technology<br>
 |        SH451 Engineering Mathematics II<br>
 |        SH453 Engineering Chemistry<br>
+=======
+Submitted by:
+Student Name:
+Roll Number:
+Email Id:
 
-Submitted by:<br>
-Student Name:<br>
-Roll Number:<br>
-Email Id:<br>
+Submitted to:
+Teacher Name:
+Department Name:
+College Name:
+---------------------------------------------------
 
-Submitted to:<br>
-Teacher Name:<br>
-Department Name:<br>
-College Name:<br>
-
-### TODO:
+TODO:
 - Create .gitignore.
 - License Work.
