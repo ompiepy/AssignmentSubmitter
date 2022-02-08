@@ -46,3 +46,33 @@ College Name:
 TODO:
 - Create .gitignore.
 - License Work.
+- OCR
+
+1. You will obtain the each .jpeg files, page size=A4.
+2. Arrange pages if necessary.
+3. Convert to pdfs.
+4. Create area to add footer details. Margin from bottom.
+5. Add cover page.
+**{ASSIGNMENT_NAME}**
+{SUBJECT_COURSE}
+
+Submitted by:
+**Om Prakash Sharma**
+THA077BCT030
+om.772417@thc.tu.edu.np
+
+
+Submitted to:
+{TEACHER_NAME}
+{DEPARTMENT_NAME}
+Institute of Engineering
+Thapathali Campus
+
+ ![Screenshot](./coverpage_example.jpg)
+
+6. Add footer details as follows:
+{ASSIGNMENT_NAME}/ Om Prakash Sharma/ THA077BCT030       Page {1} of {TOTAL_PAGE}
+ ![Screenshot](./footer_example.png)
+Or, you can add your own footer designs and work accordingly.
+
+
