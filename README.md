@@ -22,16 +22,7 @@ Name of Subject:<br>
         SH451 Engineering Mathematics II<br>
         SH453 Engineering Chemistry<br>
 
-**Name of Assignment:**<br>
-|Name of Subject:<br>
-|    Choosen out of 6 Subjects:<br>      
-|        EX451 Basic Electronics Engineering<br>
-|        ME451 Engineering Drawing II<br>
-|        ME452 Fundamental of Thermodynamics & Heat Transfer<br>
-|        ME453 Workshop Technology<br>
-|        SH451 Engineering Mathematics II<br>
-|        SH453 Engineering Chemistry<br>
-=======
+
 Submitted by:
 Student Name:
 Roll Number:
