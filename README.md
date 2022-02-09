@@ -13,14 +13,14 @@
 ### Front Cover
 --------------------------------------------------
 **Name of Assignment:**
-Name of Subject:
-    Choosen out of 6 Subjects:
-        EX451 Basic Electronics Engineering
-        ME451 Engineering Drawing II
-        ME452 Fundamental of Thermodynamics & Heat Transfer
-        ME453 Workshop Technology
-        SH451 Engineering Mathematics II
-        SH453 Engineering Chemistry
+Name of Subject:<br>
+    Choosen out of 6 Subjects:<br>
+        EX451 Basic Electronics Engineering<br>
+        ME451 Engineering Drawing II<br>
+        ME452 Fundamental of Thermodynamics & Heat Transfer<br>
+        ME453 Workshop Technology<br>
+        SH451 Engineering Mathematics II<br>
+        SH453 Engineering Chemistry<br>
 
 **Name of Assignment:**<br>
 |Name of Subject:<br>
