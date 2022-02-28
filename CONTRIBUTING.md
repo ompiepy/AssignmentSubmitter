@@ -6,6 +6,8 @@ Please browse any exisiting issues or open up a new one.
 
 Contribution Steps:
 
-1. Fork this repository.
-2. Clone the forked repository to your machine.3. 3. Create a new branch named after the issue you're working on.
-4. Commit your changes, push the changes to GitHub.5. Open a pull request.
+1. `fork` this repository.
+1. `clone` the forked repository to your machine.
+1. Create a new `branch` named after the `issue` you're working on.
+1. `commit` your changes, `push` the changes to GitHub.
+1. Open a `pull` request.
